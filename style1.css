@@ -1,0 +1,60 @@
+#content{
+background-image: url("includes/3d_824.jpg");
+}
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+a{
+	color: #000;
+	text-decoration: none;
+}
+.wrapper {
+	position: relative;
+	max-width: 840px;
+	width: 100%;
+	padding: 0 50px;
+	margin: 0 auto;
+}
+table.imagetable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #999999;
+	border-collapse: collapse;
+}
+table.imagetable th {
+	background:#b5cfd2 url('images/cell-blue.jpg');
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #999999;
+}
+table.imagetable td {
+	background:#dcddc0 url('images/cell-grey.jpg');
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #999999;
+}
+table.imagetable1 th {
+	background:#b5cfd2 url('images/cell-blue.jpg');
+}
+		img.border {
+			display: block;
+			padding:8px;
+			border:solid;
+			border-color: #dddddd #aaaaaa #aaaaaa #dddddd;
+			border-width: 1px 2px 2px 1px;
+			background-color:white;
+		}

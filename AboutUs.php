@@ -1,0 +1,17 @@
+<?php include("includes/header.php");
+include("includes/menu1.php");?>
+<html>
+<head>
+<title>About Us
+</title>
+
+</head>
+<body >
+<div id="content" style="height=100%;width=100%">
+<br><h1>Corporate Information</h1>
+<h3>About Shree Yamaha Motors Pvt. Ltd.</h3><p class="profile-text">Shree Yamaha is Established in 2006.</p><p class="profile-text">Shree Yamaha is Situated  at Mumbai in Maharastra.
+sells all Yamaha motorcycles for both domestic markets.With a strong workforce of more than 20 employees,
+SYM is highly customer-driven.Presently, its product portfolio includes VMAX (1,679cc),YZF-R15 version 2.0 (150cc), Fazer (153cc), FZ-S (153cc), FZ16 (153cc)
+,SZ-R(153cc), SZ &amp; SZ-X (153cc),YBR 125 (123cc), and Crux (106cc).  </p><a name="anchor1" id="anchor1"><span class="aural">.</span></a><h1>Vision</h1><p class="profile-text">We will establish YAMAHA as the "exclusive &amp; trustedbrand" of customers by "creating Kando" (touching their hearts) - the firsttime and every time with world class products &amp; services delivered bypeople having "passion for customers".</p><a name="anchor2" id="anchor2"><span class="aural">.</span></a><h1>Mission</h1><h3>We are committed to:</h3><p class="profile-text">Be the Exclusive &amp; Trusted Brand renowned formarketing and manufacturing of YAMAHA products, focusing on serving ourcustomer where we can build long term relationships by raising their lifestylethrough performance excellence, proactive design &amp; innovative technology.Our innovative solutions will always exceed the changing needs of our customersand provide value added vehicles.</p><p class="profile-text">Build the Winning Team with capabilities for success,thriving in a climate for action and delivering results. Our employees arethe most valuable assets and we intend to develop them to achieve internationallevel of professionalism with progressive career development. As a goodcorporate citizen, we will conduct our business ethically and socially ina responsible manner with concerns for the environment.</p><p class="profile-text">Grow through continuously innovating our businessprocesses for creating value and knowledge across our customers therebyearning the loyalty of our partners &amp; increasing our stakeholder value.</p><a name="anchor3" id="anchor3"><span class="aural">.</span></a><h1>Core Competencies</h1><h3>Customer #1</h3><p class="profile-text">We put customers first in everything we do. We takedecisions keeping the customer in mind.</p><h3>Challenging Spirit</h3><p class="profile-text">We strive for excellence in everything we do andin the quality of goods &amp; services we provide. We work hard to achievewhat we commit &amp; achieve results faster than our competitors and wenever give up.</p><h3>Team-work</h3><p class="profile-text">We work cohesively with our colleagues as a multi-culturalteam built on trust, respect, understanding &amp; mutual co-operation. Everyone'scontribution is equally important for our success.</p><h3>Frank &amp; Fair Organization</h3><p class="profile-text">We are honest, sincere, open minded, fair &amp; transparentin our dealings. We actively listen to others and participate in healthy &amp; frankdiscussions to achieve the organization's goals.</p></body>
+</html>
+<?php include("includes/footer.php");?>
